@@ -1,0 +1,83 @@
+.gt-body {
+    width: 100%;
+    margin: auto;
+    background-color: white;
+    margin-bottom: 20px;
+    padding: 10px 20px;
+  }
+  .gt-header-top {
+    margin: 10px 20px;
+    padding-top: 20px;
+  }
+  .gt-header-top h5{
+      font-size: 16px;
+  }
+  .gt-header-top span {
+    border-bottom: 1px solid red;
+    color: rgba(0, 0, 0, 0.6);
+  }
+  .gt-header-body {
+    display: flex;
+  }
+  .gt-header-left {
+    width: 869px;
+    margin: 10px 20px 10px 20px;
+  }
+  .gt-header-left h3{
+      font-size: 24px;
+  }
+  .gt-header-left p {
+    width: 799px;
+  }
+  .header-top-one,.logo{
+      overflow: initial;
+  }
+ li{
+     list-style: none;
+ }
+  .gt-header-left-danhgia i{
+      color: yellow;
+  }
+  .gt-header-left img {
+    width: 602px;
+    margin: 10px auto;
+  }
+  .gt-header-right {
+    text-align: left;
+    padding: 10px 20px 20px 20px;
+    margin-right: 10px;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    height: 100%;
+  }
+  .gt-header-right h4 {
+    margin: 0 0 10px 0;
+  }
+  .gt-header-right p {
+    margin: 10px 0;
+  }
+  .gt-header-right li {
+    margin: 10px 0;
+    font-size: 14px;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+  }
+  p {
+    text-align: justify;
+    font-size: 14px;
+    display: -webkit-box;
+    max-height: 3.2rem;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: normal;
+    -webkit-line-clamp: 2;
+    line-height: 1.6rem;
+  }
+  h4{
+      font-size: 18px;
+  }
+  .vip-customers-heading-p{
+    text-align: center;
+  }
+  .customers-item1-p{
+    text-align: center;
+  }
