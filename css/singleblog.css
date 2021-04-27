@@ -1,0 +1,36 @@
+.blog_comment_admin{
+    padding: 0 20px;
+}
+
+.comment_list img{
+    width: 70px;
+    height: 70px;
+}
+.comment_list{
+    display: flex;
+    padding: 20px 0;
+    border-bottom: 1px solid rgba(0,0,0,0.1);
+}
+.comment_item{
+    margin: 0 20px;
+}
+.comment_list_member{
+    margin-left: 90px;
+}
+.checkbox{
+    margin-left: 10px;
+}
+.comment_list_new{
+    opacity: 0;
+    visibility: hidden;
+}
+.hien_comment{
+    opacity: 1;
+    visibility: inherit;
+}
+.form-control{
+    margin: 10px 0;
+}
+.repcmt{
+    margin-left: 90px;
+}
