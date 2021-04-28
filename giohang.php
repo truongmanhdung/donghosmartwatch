@@ -258,6 +258,7 @@ session_start();
                 </tbody>
               </table>
               <button type="submit" name="update_click" class="btn btn-outline-primary btn-primary">Cập nhật<table></table></button>
+              <a href="dongho.php" class="btn btn-outline-primary btn-primary">Tiếp tục mua hàng</a>
               <div class="container gio-hang-content-right col-xs-12 col-sm-12 col-md-12 col-lg-12">
                 <div class="container-form">
                   <div class="container-heading-form">
